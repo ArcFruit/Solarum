@@ -3878,9 +3878,10 @@ iframe {
     background: #fff;
     text-align: center;
     height: 108px;
-    position: relative;
     overflow: hidden;
     z-index: 1;
+    position:relative;
+
 }
 
 .equal-shadow-team .team-content {
@@ -3929,7 +3930,7 @@ iframe {
     -moz-transform: translateY(0);
     -ms-transform: translateY(0);
     -o-transform: translateY(0);
-    transform: translateY(0);
+    transform: translateY(0px);
 }
 
 .team-content ul {
